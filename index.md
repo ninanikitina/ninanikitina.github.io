@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nina Nikitina Page
 
 You can use the [editor on GitHub](https://github.com/ninanikitina/ninanikitina.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,6 +20,13 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+### Table Test
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 **Bold** and _Italic_ and `Code` text
 
